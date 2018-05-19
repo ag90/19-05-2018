@@ -15,7 +15,7 @@ public class TestDemo {
 	@Test
 	public void m1()
 	{
-		System.out.println("Welcome HCL-Lites");
+		System.out.println("3rd developer check in code");
 	}
 
 }
