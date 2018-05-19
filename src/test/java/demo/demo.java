@@ -11,7 +11,7 @@ public class demo {
 	@Test
 	public void m()
 	{
-		assertEquals("PMofIndia", "PMofIndia");
+		assertEquals("PMofIND", "PMofIndia");
 	}
 	
 	@Test
